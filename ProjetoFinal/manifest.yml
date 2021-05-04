@@ -1,6 +1,0 @@
-applications:
-- name: projeto-final
-  random-route: true
-  memory: 128M
-  org: myorg
-  space: myspace
