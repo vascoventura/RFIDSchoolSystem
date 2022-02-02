@@ -1,6 +1,6 @@
 # RFIDSchoolSystem
 
-- Software Engineer Degree Capstone. 
+- Software Engineer Degree Capstone Project. 
 
 - Using PHP, C++, HTML, CSS, MySQL Database, I implemented a RFID system turned to teachers and students. First, it´s important to know that teachers needs are different than student needs. They represent different objects.
 
